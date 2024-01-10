@@ -117,3 +117,17 @@ right: -11px;
     top: 2200px;
     right: 600px;
 }
+
+.OLtext {
+    position: absolute;
+    font-family: 'comfortaa';
+    top: 2800px;
+
+
+}
+
+.Outline {
+    position: absolute;
+    top: 3200px;
+    left: 650px;
+}
